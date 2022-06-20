@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "ola me chamo Fellype"
 "Eu gosto de carro"
 "Eu não gosto de filme"
@@ -7,3 +8,8 @@
 "Eu gosto de futebol"
 "Eu não gosto de volei"
 >>>>>>> Pedro
+=======
+"Olá, eu me chamo Gustavo"
+"Eu gosto de bolo"
+"Eu não gosto de novela"
+>>>>>>> gustavo
